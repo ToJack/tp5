@@ -24,6 +24,7 @@ Modifier l'exemple de tensorflow pour utiliser l'image de base (non gpu) que vou
 Pas obligé d'installer dokuwiki
 
 # 4 Kubeflow
+Pour installer kubeflow sur le cluster, suivre la [documentation officielle](https://www.kubeflow.org/docs/started/getting-started/)
 Si problème lors du `ks pkg install`
 https://github.com/ksonnet/ksonnet/blob/master/docs/troubleshooting.md#github-rate-limiting-errors
 
